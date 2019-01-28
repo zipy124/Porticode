@@ -1,0 +1,7 @@
+Install: https://localtunnel.github.io/www/
+Run it get get a https address
+Create UCL API Account
+Change client id and client secret in auth_ucl/views.py to your keys
+Change the callback on ucl api to your https address
+Add the https address (without the https://) to allowed hosts in settings
+See if you can login lol
